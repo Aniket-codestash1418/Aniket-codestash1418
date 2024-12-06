@@ -12,7 +12,7 @@
 
 <p align="left">✨ Develop ♻ Debug <br>📚 I'm currently upskilling myself in Backend Technologies<br>🎯 Goals: To be a good developer one step at a time<br>🎲 Fun fact: Those who do not know pain will never understand true peace.</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aniket-codestash1418](https://github.com/Aniket-codestash1418?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.comAniket-codestash1418](https://github.com/Aniket-codestash1418?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
